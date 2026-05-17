@@ -1,0 +1,55 @@
+body {
+    background-color: #f2f2f2;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4a90e2;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+h1 {
+    font-size: 36px;
+    margin: 0;
+}
+
+h2 {
+    color: #4a90e2;
+    font-size: 26px;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.5;
+}
+
+main {
+    width: 80%;
+    margin: 30px auto;
+}
+
+.caja {
+    background-color: white;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid #4a90e2;
+    border-radius: 10px;
+}
+
+footer {
+    background-color: #333333;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    
+
+    <footer>
+        <p>creado por: Isabella Heredia</p>
+    </footer>
+
+</body>
+</html>

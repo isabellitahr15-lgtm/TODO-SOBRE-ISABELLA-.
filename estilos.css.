@@ -48,6 +48,53 @@ footer {
     
 
     <footer>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mi Página Web</title>
+    <link rel="stylesheet" href="estilos.css">
+</head>
+<body>
+
+    <header>
+        <h1>Mi Página Web Personal</h1>
+        <p>Bienvenidos a mi primera página con HTML y CSS</p>
+    </header>
+
+    <main>
+        <section class="caja">
+            <h2>Sobre mí</h2>
+            <p>
+                Hola, mi nombre es estudiante. Esta página fue creada para practicar
+                diseño web usando HTML y CSS. Aquí aprendemos a cambiar colores,
+                tamaños de letra, márgenes y fondos.
+            </p>
+        </section>
+
+        <section class="caja">
+            <h2>Mis gustos</h2>
+            <p>
+                Me gusta aprender cosas nuevas, usar la tecnología y crear páginas web.
+                También me interesa mejorar el diseño visual de mis trabajos.
+            </p>
+        </section>
+
+        <section class="caja">
+            <h2>¿Qué aprendí?</h2>
+            <p>
+                Aprendí que HTML sirve para crear la estructura de una página y CSS
+                sirve para darle estilo, color, tamaño y organización.
+            </p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Creado por: Tu nombre</p>
+    </footer>
+
+</body>
+</html>
         <p>creado por: Isabella Heredia</p>
     </footer>
 
